@@ -74,6 +74,10 @@ body{
   border-color: #5372F0;
   background: #5372F0;
 }
+p{
+    padding: 20px;
+    margin-right: 80px;
+}
 .filter .slider{
   margin-top: 12px;
 }
@@ -110,7 +114,7 @@ body{
   flex-grow: 1;
   display: flex;
   overflow: hidden;
-  margin-left: 20px;
+  margin-left: 200px;
   border-radius: 5px;
   align-items: center;
   justify-content: center;
